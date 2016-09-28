@@ -62,16 +62,15 @@ html {
  }
 
 .title{
-	position:absolute;
-	top:20%;
-	left:25%;
-	right:25%;
+	position:relative;
+	top:25%;
+text-align:center;
 }
 
 
 .subtitle{
 	position:absolute;
-	top:40%;
+	top:80%;
 	left:37%;
 	right:37%;
 }
@@ -115,9 +114,10 @@ h2{
 	text-align: center;
 }
 
+
 .social{
 	position:absolute;
-	top: 43%;
+	top: 170%;
 	z-index:4;
 	font-size:200%;
 	right:40%;
